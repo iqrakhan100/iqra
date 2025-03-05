@@ -28,6 +28,7 @@ class _MyWidgetState extends State<MyWidget> {
               width: 200,
               color: Colors.red,
               child: Text("Hello IT",style:TextStyle(fontWeight: FontWeight.bold,fontSize: 30),),
+               child: Text("Hello IT with iqra khan",style:TextStyle(fontWeight: FontWeight.bold,fontSize: 30),),
              ),
            )
           ],
